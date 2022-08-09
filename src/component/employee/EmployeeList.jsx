@@ -58,5 +58,3 @@ const EmployeeList = () => {
 }
 
 export default EmployeeList;
-
-////anju.radhakrishnan@inncrewin.com
